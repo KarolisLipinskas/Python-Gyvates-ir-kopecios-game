@@ -1,0 +1,54 @@
+{ 
+  "Auto": 140,
+
+  "Tiles": [
+    {
+      "nr": 3,
+      "connect": 40
+    },
+    {
+      "nr": 6,
+      "connect": 13
+    },
+    {
+      "nr": 9,
+      "connect": 127
+    },
+    {
+      "nr": 11,
+      "connect": 33
+    },
+    {
+      "nr": 15,
+      "connect": 4
+    },
+    {
+      "nr": 18,
+      "connect": 94
+    },
+    {
+      "nr": 27,
+      "connect": 8
+    },
+    {
+      "nr": 38,
+      "connect": 78
+    },
+    {
+      "nr": 47,
+      "connect": 17
+    },
+    {
+      "nr": 50,
+      "connect": 69
+    },
+    {
+      "nr": 80,
+      "connect": 46
+    },
+    {
+      "nr": 97,
+      "connect": 77
+    }
+  ]
+}
